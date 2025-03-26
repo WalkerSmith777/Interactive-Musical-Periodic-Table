@@ -10,9 +10,9 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ -45.0, -986.0, 1846.0, 818.0 ],
+		"rect" : [ 433.0, -1247.0, 1847.0, 819.0 ],
 		"bglocked" : 1,
-		"openinpresentation" : 0,
+		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
 		"default_fontface" : 0,
 		"default_fontname" : "Arial",
@@ -22094,7 +22094,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-11",
@@ -22194,7 +22193,7 @@
 										}
 ,
 										"classnamespace" : "box",
-										"rect" : [ 79.0, -688.0, 1372.0, 728.0 ],
+										"rect" : [ 79.0, -824.0, 1372.0, 728.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -22222,7 +22221,6 @@
 										"style" : "",
 										"subpatcher_template" : "",
 										"assistshowspatchername" : 0,
-										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"id" : "obj-98",
@@ -29523,7 +29521,6 @@
 										"style" : "",
 										"subpatcher_template" : "",
 										"assistshowspatchername" : 0,
-										"visible" : 1,
 										"boxes" : [ 											{
 												"box" : 												{
 													"id" : "obj-158",
@@ -29911,7 +29908,7 @@
 														}
 ,
 														"classnamespace" : "box",
-														"rect" : [ 134.0, 171.0, 1006.0, 480.0 ],
+														"rect" : [ 633.0, 356.0, 1006.0, 480.0 ],
 														"bglocked" : 0,
 														"openinpresentation" : 0,
 														"default_fontsize" : 12.0,
@@ -29939,7 +29936,6 @@
 														"style" : "",
 														"subpatcher_template" : "",
 														"assistshowspatchername" : 0,
-														"visible" : 1,
 														"boxes" : [ 															{
 																"box" : 																{
 																	"comment" : "",
@@ -30114,7 +30110,7 @@
 																		}
 ,
 																		"classnamespace" : "box",
-																		"rect" : [ 251.0, 225.0, 1185.0, 697.0 ],
+																		"rect" : [ 701.0, 271.0, 1185.0, 697.0 ],
 																		"bglocked" : 0,
 																		"openinpresentation" : 0,
 																		"default_fontsize" : 12.0,
@@ -30142,7 +30138,6 @@
 																		"style" : "",
 																		"subpatcher_template" : "",
 																		"assistshowspatchername" : 0,
-																		"visible" : 1,
 																		"boxes" : [ 																			{
 																				"box" : 																				{
 																					"id" : "obj-13",
@@ -30541,7 +30536,7 @@
 																						}
 ,
 																						"classnamespace" : "box",
-																						"rect" : [ 98.0, 129.0, 1129.0, 772.0 ],
+																						"rect" : [ 662.0, 357.0, 1129.0, 772.0 ],
 																						"bglocked" : 0,
 																						"openinpresentation" : 0,
 																						"default_fontsize" : 12.0,
@@ -30569,7 +30564,6 @@
 																						"style" : "",
 																						"subpatcher_template" : "",
 																						"assistshowspatchername" : 0,
-																						"visible" : 1,
 																						"boxes" : [ 																							{
 																								"box" : 																								{
 																									"format" : 6,
@@ -41875,14 +41869,14 @@
 		"dependency_cache" : [ 			{
 				"name" : "Lambda-to-freq.maxpat",
 				"bootpath" : "~/Documents/CCRMA PhD/Courses/Music220B/Final_Project_Max_Version/Subpatchers and Element Spectral Data",
-				"patcherrelativepath" : "../../../CCRMA PhD/Courses/Music220B/Final_Project_Max_Version/Subpatchers and Element Spectral Data",
+				"patcherrelativepath" : "../../../../CCRMA PhD/Courses/Music220B/Final_Project_Max_Version/Subpatchers and Element Spectral Data",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "element-chord.maxpat",
 				"bootpath" : "~/Documents/CCRMA PhD/Courses/Music220B/Final_Project_Max_Version/Subpatchers and Element Spectral Data",
-				"patcherrelativepath" : "../../../CCRMA PhD/Courses/Music220B/Final_Project_Max_Version/Subpatchers and Element Spectral Data",
+				"patcherrelativepath" : "../../../../CCRMA PhD/Courses/Music220B/Final_Project_Max_Version/Subpatchers and Element Spectral Data",
 				"type" : "JSON",
 				"implicit" : 1
 			}
